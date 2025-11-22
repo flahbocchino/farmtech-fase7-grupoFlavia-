@@ -1,0 +1,4 @@
+talhao_id,cultura,comprimento_m,largura_m,area_m2,area_ha,fertilizante_kg
+1,Soja,100,50,5000,0.5,25.0
+2,Milho,150,80,12000,1.2,84.0
+3,Cana,200,120,24000,2.4,216.0
