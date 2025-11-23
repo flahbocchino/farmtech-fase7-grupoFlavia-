@@ -64,27 +64,40 @@ farmtech-fase7-grupoFlavia/
 └── README.md
 ⚙️ Como Executar o Sistema
 
-Clone o repositório:
+Baixar o projeto pelo GitHub:
 
-git clone https://github.com/flahbocchino/farmtech-fase7-grupoFlavia-.git
+Acesse o repositório no GitHub.
 
+Clique no botão verde “Code”.
 
-Acesse a pasta do projeto:
+Selecione “Download ZIP”.
 
-cd farmtech-fase7-grupoFlavia-
+Extrair o arquivo ZIP:
 
+Extraia o conteúdo do .zip em uma pasta no seu computador.
 
-Instale as dependências:
+Abrir a pasta do projeto:
+
+Abra a pasta extraída no VS Code ou use o Prompt de Comando / PowerShell dentro dessa pasta.
+
+Instalar as dependências (em um terminal dentro da pasta do projeto):
+Instalar as dependências (em um terminal dentro da pasta do projeto):
 
 pip install -r requirements.txt
 
 
-Execute o dashboard:
+Executar o dashboard (no mesmo terminal):
 
 streamlit run app.py
+
+
+Abrir no navegador:
+👉 Acesse http://localhost:8501
+
 📸 Imagens da Dashboard
 
 As capturas de tela da aplicação em execução estão disponíveis na pasta /imagens
+
 🎥 Vídeo Demonstrativo
 
 📺 Vídeo da apresentação da Fase 7 no YouTube (não listado):
